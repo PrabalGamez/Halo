@@ -1,0 +1,12 @@
+.Head{
+    width: 100%;
+    top: 0;
+    margin: 0;
+    font-size: x-large;
+    font-family: 'Staatliches', cursive;
+}
+
+canvas{
+    border: 5px solid grey;
+    
+}
